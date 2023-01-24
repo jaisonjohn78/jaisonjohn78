@@ -14,7 +14,7 @@ _______________________
 
 
 
-* 🖥️  See my portfolio at [code-with-jaison](http://example.comhttps://code-with-jaison.pages.dev/)
+* 🖥️  See my portfolio at [code-with-jaison](https://code-with-jaison.pages.dev/)
 * ✉️  You can contact me at [jaisonjohn78.com@gmail.com](mailto:jaisonjohn78.com@gmail.com)
 * 🚀  I'm currently working as Freelancer
 * 🧠  I'm Currently Pursuing BCA
